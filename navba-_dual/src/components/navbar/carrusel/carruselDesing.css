@@ -1,0 +1,16 @@
+body {
+    .correccion {
+        background: rgb(30, 185, 206);
+    }
+    .myswiper {
+        width: 100px;
+        height: 450px;
+    }
+    .myswiper > .correccion {
+       display: flex;
+       align-items: center;
+    }
+    .myswiper > img {
+        align-items: center;
+    }
+}
